@@ -257,6 +257,7 @@ Each store was analyzed individually to evaluate strengths, weaknesses, and impr
 <p align="center">
   <img src="assets/Overview.png" width="1000" />
 </p>
+
 **Key Consolidated Metrics** 
 - Total Revenue: $288,456
 - Total Quantity Sold: 771 units
@@ -273,6 +274,7 @@ Each store was analyzed individually to evaluate strengths, weaknesses, and impr
 **Customer Contribution Patterns**
 - Across all stores, revenue is concentrated among a few customers
 - Top 1–5 customers account for over 33–40% of store sales
+
 **This indicates:**
 - High-value customers drive business.
 - Customer loyalty or retention programs could be highly effective.
@@ -306,6 +308,7 @@ Store A moves the greatest volume, but at lower average price points
 - Store A: Female shoppers make up the majority at 57%, generating revenue of $47.06K
 - Store B: Unisex products attract the largest share of buyers (41%), with revenue of $43.34K
 - Store C: Unisex items also draw the strongest customer segment (58%) of $58.08K in revenue
+
 **Overall:** Unisex products represent the greatest market opportunity across the chain, while the male gender contributed the least
 
 **4. Product Strategy Differences**
