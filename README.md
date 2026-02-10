@@ -251,7 +251,9 @@ Top Products are:
 
 
 ## Combined Overall Performance (All Stores)
-
+<p align="center">
+  <img src="assets/Overview.png" width="1000" />
+</p>
 **Key Consolidated Metrics** 
 - Total Revenue: $288,456
 - Total Quantity Sold: 771 units
@@ -283,8 +285,6 @@ Top Products are:
 
 ## Cross-Store Comparison & Insights
 
-
-
 **1. Revenue Comparison**
 Store B leads in total revenue ($105K) despite selling fewer units (258) than Store A (264).
 Store A moves the greatest volume, but at lower average price points.
@@ -311,6 +311,73 @@ Store A moves the greatest volume, but at lower average price points.
 **Chain-wide:** Accessories show the strongest growth and should remain a priority for stocking and marketing efforts.
 
 
+---
+
+
+## Business Recommendations by Store
+
+**1. Store A- Recommendations** 
+- Increase stock and product variety in women’s premium clothing and accessories, as these are the strongest revenue drivers.
+- Introduce bundle sales (e.g., shoes + handbag + accessories) to increase average basket size.
+- Continue promoting cashless payment methods, as Store A customers already adopt more than other stores.
+- Launch VIP customer loyalty tiers, as Store A demonstrates a strong base of returning customers.
+- Use targeted digital campaigns to sustain customer engagement and high-margin sales.
+
+**2. Store B – Recommendations**
+- Improve digital payment visibility and incentives (discounts for digital wallets, loyalty points).
+- Use price-based promotions, as Store B’s market shows more price-sensitive customers.
+- Increase customer engagement through SMS and push promotional campaigns.
+- Introduce mid-priced product bundles to increase units per transaction.
+- Conduct customer surveys to understand barriers to digital adoption
+- Launch VIP customer loyalty tiers, as Store A demonstrates a strong base of returning customers.
+
+**3. Store C- Recommendations**
+- Increase inventory levels for high-velocity product lines (accessories, footwear).
+- Offer seasonal promotions, as Store C responds well to traffic peaks.
+- Introduce up-sell support on the shop floor to push premium SKUs.
+- Expand product display areas, as walk-in traffic and product movement are already strong.
+- Analyze peak period staffing to maintain service levels.
+
+
+---
+
+
+## Combined Store Strategic Recommendations
+
+**1. Product Strategy**
+- Expand unisex and women’s premium product lines group-wide.
+- Use store-specific assortment planning rather than standard allocation.
+
+**2. Pricing & Promotion**
+- Implement centralized campaigns but localize execution per store to match customer psychology.
+- Invest in loyalty across all outlets (points, cashback, digital receipts).
+
+**3. Payment & Technology**
+- Push digital payment adoption using:
+- Wallet discounts
+- “Pay and earn” loyalty point schemes
+- Faster checkout counters
+
+**4. Store Format Improvements**
+- Use Store A as a best-practice model for modern retail engagement.
+- Use Store C’s performance to benchmark inventory throughput and staffing optimization.
+- Use Store B as the experimental store for promotions and customer activation insights.
+
+
+---
+
+
+## Conclusion
+
+Aurora Threads Boutique demonstrates strong market traction across its three locations, each with unique strengths:
+- Store A – High-value premium customers and digital maturity
+- Store B – Balanced assortment with the highest growth potential
+- Store C – Strong footfall and product turnover leading to steady cash flow
+
+Individually, each store has actionable improvements. However, collectively, the business:
+- Is stable
+- Has scalable demand
+- Can grow materially through targeted investments in digital engagement, inventory planning, and customer activation
 
 
 
@@ -320,55 +387,6 @@ Store A moves the greatest volume, but at lower average price points.
 
 
 
-
-
-
-
-
-
-
-
-
-
-- Store A shows the highest product movement and customer patronage, indicating strong store traffic.
-
-- Total Customers: 10,000
-- Average Balance: $76,486
-- Products per Customer: 1.53 on average
-- Active Customers: 51.51%
-- Median Credit Score: 652
-
-### 📊 Customer Segmentation: Analysis & Insights
-**1. By Location**
-- France has 50% (5,014) of the total customers.
-- Germany and Spain are almost equally represented (~25% each).
-
-**2. By Age Group & Gender**
-- Largest age segments:
-   - 35–44: 3,981 customers
-   - 25–34: 3,222 customers
-- Younger segment (<25) is the smallest: only 457 customers
-- Gender distribution is balanced across all age groups
-
-**3. By Credit Score Band**
-- Majority of customers have fair to poor credit:
-   - Fair (580–669): 3,331 customers
-   - Poor (<580): 2,362 customers
-   - Good (670–739): 2,428 customers
-- Only 655 customers have Excellent (800+) scores - just 6.5% of the base
-
-**4. By Number of Products**
-- Over 50% have only 1 product
-  - 5,084 (1 product)
-  - 4,590 (2 products)
-- Very few are using 3+ products
-
-**5. By Balance Band**
-- High Balance (100k–150k): 3,830 customers
-- Low Balance (<50k): 3,692 customers
-- Medium (50k-100k): 1,509 customers
-- Very High Balance (150k+): 969 customers
-- Most balances are clustered at the extremes - either low or high, suggesting a bimodal distribution
 
 
 ### ⚠️ Key Challenges Identified
