@@ -1,6 +1,6 @@
 # Multi-store Retail Performance Analysis — Aurora Threads Boutique
 <p align="center">
-  <img src="assets/Overview.png" width="1000" />
+  <img src="assets/Wallpaper.png" width="1000" />
 </p>
 
 
