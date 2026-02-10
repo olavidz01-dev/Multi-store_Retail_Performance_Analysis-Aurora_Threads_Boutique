@@ -108,7 +108,7 @@ Developed a comprehensive suite of interactive dashboards using **Power BI Deskt
 
 ---
 
-🔗 [View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTU1NTcxY2EtMTJjMy00ZDAwLWJiMmMtNjRkMWY3ODAyZDNkIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
+🔗 [View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTM5NGRiYmYtNTA3YS00ZWQ2LTk5MmYtNDhhY2JlYTkyODEyIiwidCI6ImZmMGYzZTNhLTNlNTMtNDU0Zi1iMmI1LTZjNjg3NTNiOGVlNCJ9)
 
 ## 🔢 STORE-LEVEL DEEP-DIVE ANALYSIS
 Each store was analyzed individually to evaluate strengths, weaknesses, and improvement opportunities.
