@@ -8,7 +8,7 @@
 
 
 ## Business Overview
-Aurora Threads is a premium fashion boutique specializing in high-end designer apparel, footwear, and accessories. Renowned for its curated collections and signature personalized shopping experience, the boutique operates three stores, catering to a discerning, fashion-forward clientele that values exclusivity and craftsmanship.
+Aurora Threads is a premium fashion boutique specializing in high-end designer apparel, footwear, and accessories. Renowned for its curated collections and signature personalized shopping experience. The boutique operates three stores, catering to a discerning, fashion-forward clientele that values exclusivity and craftsmanship.
 
 As competition intensifies in the luxury retail market, Aurora Threads is embracing data-driven decision-making to strengthen its strategic edge. With growing datasets capturing customer behavior, sales performance, product trends, and branch activity, the boutique now has the opportunity to uncover deeper insights in identifying top-performing categories, understanding high-value customer segments, and optimizing inventory allocation across locations. By leveraging these insights, Aurora Threads aims to refine its merchandising strategy, elevate customer engagement, and sustain its position as a leader in the luxury fashion space.
 
@@ -17,7 +17,7 @@ As competition intensifies in the luxury retail market, Aurora Threads is embrac
 
 
 ## Business Problem 
-Aurora Threads is facing growing challenges in turning its expanding sales and customer data into meaningful insights. The boutique struggles to identify trends across product categories, track performance efficiently, and make timely, data-driven decisions. Without stronger analytical capabilities, key opportunities for optimizing inventory, improving customer engagement, and boosting sales performance are being missed.
+Aurora Threads is facing growing challenges in turning its expanding sales and customer data into meaningful insights. The boutique struggles to identify trends across product categories, track performance efficiently, and make timely, data-driven decisions. Without stronger analytical capabilities, key opportunities to optimize inventory, improve customer engagement, and boost sales performance are being missed.
 
 **Key Problems**
 1. Difficulty identifying category-level trends and shifting customer preferences
@@ -32,7 +32,9 @@ Aurora Threads is facing growing challenges in turning its expanding sales and c
 
 ## Project Objectives
 
-The objective of this project is to answer Aurora Threads’ most important business questions
+The objective of this project is to answer Aurora Threads’ most important business questions. 
+
+These are:
 
 1. Transform raw retail transaction data into a clear, intuitive, and insight-driven PowerBI dashboard
 
@@ -69,7 +71,7 @@ The objective of this project is to answer Aurora Threads’ most important busi
 
 
 ## Approach & Methodology
-This project was developed entirely using **Microsoft PowerBI**, covering the full analytics workflow — from data cleaning and transformation to modeling, analysis, and visualization. The objective was to analyze customer behavior, churn risk, and portfolio insights using an integrated and interactive PowerBI dashboard solution.
+This project was developed entirely using **Microsoft Power BI**, covering the full analytics workflow — from data cleaning and transformation to modeling, analysis, and visualization. The objective was to analyze customer behavior, churn risk, and portfolio insights using an integrated and interactive Power BI dashboard solution.
 
 **1. Data Cleaning & Transformation (Power BI Power Query)**
 - Imported raw customer data into **Power BI** using Power Query Editor
@@ -89,7 +91,7 @@ This project was developed entirely using **Microsoft PowerBI**, covering the fu
   - `Total Quantity Sold`, `Total Customers`, `Total Revenue`, `Number of Stores`, etc
 - Used **DAX functions** such as:
   - `CALCULATE`, `FILTER`, `DIVIDE`, `AVERAGEX`, `IF`, `VAR`, `COUNTROWS`, `DISTINCTCOUNT`, etc
-- Applied calculated measures to support dynamic and filter-aware analysis across customer segments
+- Applied calculated measures to support dynamic and filter-aware analysis across product categories and product lines
 
 **3. Interactive Visualization & Dashboard Design (Power BI)**
 
@@ -128,7 +130,7 @@ Each store was analyzed individually to evaluate strengths, weaknesses, and impr
   - Jumpsuit – $12K
   - Skirts – $8K
   
-**3. Revenue Trend by Day**
+**3. Revenue Trends by Day**
 - Peak days hit up to $19.4K (Day 4)
 - Some days show performance dips below $3K, indicating fluctuating demand
 
@@ -142,16 +144,16 @@ Each store was analyzed individually to evaluate strengths, weaknesses, and impr
 - Debit & credit card transactions make up the remaining majority (21% and 17% respectively)
 
 **6. Gender Split**
-- Female buyers represent 57% of total revenue, indicating stronger demand from women.
+- Female buyers represent 57% of total revenue, indicating stronger demand from women
 
 **Insights**
-- Product sales are dominated by Women’s wear, such as jumpsuits, skirts, jackets, swimwear, and blouses, indicating a strong preference for premium female fashion.
-- Store A experiences a higher share of digital payment methods, showing stronger adoption of modern checkout behavior.
+- Product sales are dominated by Women’s wear, such as jumpsuits, skirts, jackets, swimwear, and blouses, indicating a strong preference for premium female fashion
+- Store A experiences a higher share of digital payment methods, showing stronger adoption of modern checkout behavior
 - Customer purchases suggest a higher female customer base, with consistent spending patterns
 
 **Business Interpretation**
 - Strong potential for expansion of women’s premium collections.
-- Promotions on complementary products (jewelry, handbags) would likely improve basket size.
+- Promotions on complementary products (jewelry, handbags) would likely improve basket size
 
 
 ### Store-B Performance Analysis & Insight
@@ -167,7 +169,8 @@ Each store was analyzed individually to evaluate strengths, weaknesses, and impr
 **2. Product Category** 
 - Accessories lead with $70,698, followed by Footwear with $27,270
 - Clothing is lowest, contributing $6,990
-Top Products are:
+
+**3. Top Products are**
 - Necklace – $21.6K
 - Boots – $18.2K
 - Ring – $15.0K
@@ -185,9 +188,9 @@ Top Products are:
 
 **6. Gender Split**
 - Revenue is nearly balanced:
+  - Unisex – 41%
   - Female – 30%
   - Male – 29%
-  - Unisex – 41%
 
 **Insights**
 - Store B generates stable but moderate performance across product lines
@@ -222,16 +225,16 @@ Top Products are:
 - Wristwatch – $15K
 
 **4. Sales Trend**
-- Best day reaches $24K, with lower days dropping to $2K, the widest gap among stores.
+- Best day reaches $24K, with lower days dropping to $2K, the widest gap among stores
 
 **5. Customer Value**
-- “CUST006” leads with $24,00 with 30 units, significantly above other buyers.
+- “CUST006” leads with $24,00 with 30 units, significantly above other buyers
 
 **6. Payment Type**
 - Cash dominates at 46%
 - Credit Card – 22%
 - Online payments – 20.4%
-**Interpretation:** Customers in Store C are more traditional in payment preference.
+**Interpretation:** Customers in Store C are more traditional in payment preference
 
 **7. Gender Split**
 - The Majority of spending comes from Unisex products (58%)
@@ -239,14 +242,14 @@ Top Products are:
 - Male contributions are lower
 
 **Insights**
-- Accessories and footwear contribute significantly to revenue.
-- Customer traffic is more varied by demographic, possibly due to better store location or broader assortment.
+- Accessories and footwear contribute significantly to revenue
+- Customer traffic is more varied by demographic, possibly due to better store location or broader assortment
 
 **Business Interpretation**
-- Increasing premium SKUs may yield strong returns.
-- Seasonal campaigns could further maximize store footfall.
+- Increasing premium SKUs may yield strong returns
+- Seasonal campaigns could further maximize store footfall
 
-
+  
 ---
 
 
@@ -286,15 +289,15 @@ Top Products are:
 ## Cross-Store Comparison & Insights
 
 **1. Revenue Comparison**
-Store B leads in total revenue ($105K) despite selling fewer units (258) than Store A (264).
-Store A moves the greatest volume, but at lower average price points.
+Store B leads in total revenue ($105K) despite selling fewer units (258) than Store A (264)
+Store A moves the greatest volume, but at lower average price points
 
-**Overall,** Store B is the top contributor to profitability, though all stores add meaningful value.
+**Overall,** Store B is the top contributor to profitability, though all stores add meaningful value
 
 **2. Payment Behavior Comparison**
-- Store A: Strong online customer base (47%).
-- Store B: Balanced mix across all payment channels.
-- Store C: Cash is the preferred method (46%).
+- Store A: Strong online customer base (47%)
+- Store B: Balanced mix across all payment channels
+- Store C: Cash is the preferred method (46%)
 
 **Overall Insight:**
 - Payment preferences differ by location. Increasing online payment adoption in Store C could improve conversion, while Store A may benefit from targeted in-store promotions.
@@ -307,8 +310,9 @@ Store A moves the greatest volume, but at lower average price points.
 
 **4. Product Strategy Differences**
 - Store A: Clothing is the primary revenue driver, generating $63,828
-- Stores B and C: Accessories lead in total revenue.
-**Chain-wide:** Accessories show the strongest growth and should remain a priority for stocking and marketing efforts.
+- Stores B and C: Accessories lead in total revenue
+
+**Chain-wide:** Accessories show the strongest growth and should remain a priority for stocking and marketing efforts
 
 
 ---
@@ -317,26 +321,26 @@ Store A moves the greatest volume, but at lower average price points.
 ## Business Recommendations by Store
 
 **1. Store A- Recommendations** 
-- Increase stock and product variety in women’s premium clothing and accessories, as these are the strongest revenue drivers.
-- Introduce bundle sales (e.g., shoes + handbag + accessories) to increase average basket size.
-- Continue promoting cashless payment methods, as Store A customers already adopt more than other stores.
-- Launch VIP customer loyalty tiers, as Store A demonstrates a strong base of returning customers.
-- Use targeted digital campaigns to sustain customer engagement and high-margin sales.
+- Increase stock and product variety in women’s premium clothing and accessories, as these are the strongest revenue drivers
+- Introduce bundle sales (e.g., shoes + handbag + accessories) to increase average basket size
+- Continue promoting cashless payment methods, as Store A customers already adopt more than other stores
+- Launch VIP customer loyalty tiers, as Store A demonstrates a strong base of returning customers
+- Use targeted digital campaigns to sustain customer engagement and high-margin sales
 
 **2. Store B – Recommendations**
-- Improve digital payment visibility and incentives (discounts for digital wallets, loyalty points).
-- Use price-based promotions, as Store B’s market shows more price-sensitive customers.
-- Increase customer engagement through SMS and push promotional campaigns.
-- Introduce mid-priced product bundles to increase units per transaction.
+- Improve digital payment visibility and incentives (discounts for digital wallets, loyalty points)
+- Use price-based promotions, as Store B’s market shows more price-sensitive customers
+- Increase customer engagement through SMS and push promotional campaigns
+- Introduce mid-priced product bundles to increase units per transaction
 - Conduct customer surveys to understand barriers to digital adoption
-- Launch VIP customer loyalty tiers, as Store A demonstrates a strong base of returning customers.
+- Launch VIP customer loyalty tiers, as Store A demonstrates a strong base of returning customers
 
 **3. Store C- Recommendations**
-- Increase inventory levels for high-velocity product lines (accessories, footwear).
-- Offer seasonal promotions, as Store C responds well to traffic peaks.
-- Introduce up-sell support on the shop floor to push premium SKUs.
-- Expand product display areas, as walk-in traffic and product movement are already strong.
-- Analyze peak period staffing to maintain service levels.
+- Increase inventory levels for high-velocity product lines (accessories, footwear)
+- Offer seasonal promotions, as Store C responds well to traffic peaks
+- Introduce up-sell support on the shop floor to push premium SKUs
+- Expand product display areas, as walk-in traffic and product movement are already strong
+- Analyze peak period staffing to maintain service levels
 
 
 ---
@@ -345,12 +349,12 @@ Store A moves the greatest volume, but at lower average price points.
 ## Combined Store Strategic Recommendations
 
 **1. Product Strategy**
-- Expand unisex and women’s premium product lines group-wide.
-- Use store-specific assortment planning rather than standard allocation.
+- Expand unisex and women’s premium product lines group-wide
+- Use store-specific assortment planning rather than standard allocation
 
 **2. Pricing & Promotion**
-- Implement centralized campaigns but localize execution per store to match customer psychology.
-- Invest in loyalty across all outlets (points, cashback, digital receipts).
+- Implement centralized campaigns but localize execution per store to match customer psychology
+- Invest in loyalty across all outlets (points, cashback, digital receipts)
 
 **3. Payment & Technology**
 - Push digital payment adoption using:
@@ -359,287 +363,29 @@ Store A moves the greatest volume, but at lower average price points.
 - Faster checkout counters
 
 **4. Store Format Improvements**
-- Use Store A as a best-practice model for modern retail engagement.
-- Use Store C’s performance to benchmark inventory throughput and staffing optimization.
-- Use Store B as the experimental store for promotions and customer activation insights.
+- Use Store A as a best-practice model for modern retail engagement
+- Use Store C’s performance to benchmark inventory throughput and staffing optimization
+- Use Store B as the experimental store for promotions and customer activation insights
 
 
 ---
-
-
-## Conclusion
-
-Aurora Threads Boutique demonstrates strong market traction across its three locations, each with unique strengths:
-- Store A – High-value premium customers and digital maturity
-- Store B – Balanced assortment with the highest growth potential
-- Store C – Strong footfall and product turnover leading to steady cash flow
-
-Individually, each store has actionable improvements. However, collectively, the business:
-- Is stable
-- Has scalable demand
-- Can grow materially through targeted investments in digital engagement, inventory planning, and customer activation
-
-
-
-
-
-
-
-
-
-
-
-### ⚠️ Key Challenges Identified
-**1. Low Active Engagement**
-- With only 51.51% active customers, nearly half of the customer base is disengaged or dormant.
-  - This may contribute significantly to the 20.37% churn rate.
-
-**2. Low Cross-Sell Penetration**
-- Over 95% of customers have 1–2 products
-  - Suggests missed opportunities for upselling/cross-selling additional financial services (loans, credit cards, investments, etc.)
-
-**3. Weak Credit Quality**
-- With a median credit score of 652 and 5,693 customers in Fair or Poor segments, the bank may be carrying higher credit risk.
-  - Could impact loan default rates and profitability if not managed
-
-
----
-
-
-## 📊 Churn & Risk Overview
-
-<p align="right">
-  <img src="assets/churn1.png" width="1000" />
-</p>
-
-### Top KPIs (Key Performance Indicators)
-- Churn Rate: 20.37%
-- No. of Customers churned: 2.037
-- Churned Balance: $186M
-- High-Risk Customers: 174
-- High-Value Churn Rate: 24.98%
-  - Key Risk: Nearly 25% of high-value customers churned, representing a significant financial loss and a priority focus area.
-
-### 🌍 Churn by Location
-
-| Country         | Churn Rate   | Churned Balance    | Key Insight                               |
-|-----------------|--------------|--------------------|-------------------------------------------|
-| **Germany**     |     32%      |       $97.9M       | Highest churn rate and balance loss       |
-| **Spain**       |     17%      |       $29.9M       | Moderate churn, lower financial exposure  |
-| **France**      |     16%      |       $57.7M       | Lower churn rate, but large value impact  |
-
-⚠ Germany is a high-risk churn zone, both in terms of volume and financial value.
-
-### Churn by Customer Type
-**1. Active vs. Inactive**
-- Inactive customers account for 65% of churn, which is only 48% of the base.
-- Active customer churn rate = 35%, indicating even active users aren't fully engaged.
-
-**Actionable Insight:** Inactivity is a major churn predictor. There is a need to consider stronger lifecycle management.
-
-<p align="right">
-  <img src="assets/risk2.png" width="1000" />
-</p>
-
-### Churn by Product Usage
-| No. of Products    | Churn Rate    | No. of Churned     |
-|--------------------|-------------- |--------------------|
-|   1                |     28%       |        1,409       | 
-|   2                |     8%        |        348         |
-|   3                |     83%       |        220         | 
-|   4                |     100%      |        60          |
-
-Customers with only 1 product are the largest churn group (1,409 customers).
-
-**Caution**
-
-The dataset shows a 100% churn rate for customers with four products. On investigation, this segment has a very small sample size, and all instances are labelled as churned. This appears to be a dataset artifact rather than a realistic banking behavior, so insights from this segment should be interpreted with caution. Strategic focus should remain on 1–3 product customers, where both volume and churn impact are material.
-
-### Churn by Age Group
-| Age Group       | Churn Rate    | No. of Churned                        |
-|-----------------|-------------- |---------------------------------------|
-|   45-54         |     48%       |  Extremely high churn risk            |
-|   55+           |     39%       |  Aging segment disengaging            |
-|   35-44         |     18%       |  Moderate risk                        | 
-|   <25           |     9%        |  Lower churn, oppourtunity to grow    |
-|   25-34         |     8%        |   Best-performing segment             |
-
-**Insight:** Mid-to-senior age customers are churning at 2-5x the rate of younger ones.
-
-### Churn by Credit Score Band
-| Credit Score Band       |  Churn Rate    |
-|-------------------------|----------------|
-|  Poor (<580)            |     22%        |
-|  Fair (580-669)         |     21%        |
-|  very Good (740-799)    |     21%        |
-|  Excellent (800+)       |     20%        |
-|  Good (670-739)         |     19%        |
-
-**Insight:**
-
-Churn is fairly consistent across credit bands, and no strong correlation between score and churn.
-
-### Churn Balance by Risk Tier
-
-| Risk Tier       |  Churned Balance  |
-|-----------------|-------------------|
-|  Medium         |     $106M         |
-|  low            |     $79.4M        |
-|  High           |     $0.2M         |
-
-**Insight:**
-- My analysis showed that customers at the highest churn risk tend to have lower balances, meaning they contribute less to direct financial loss.
-- The majority of revenue loss actually comes from medium-risk, higher-value customers.
-- This highlights the need for differentiated retention strategies.
-
-
----
-
-
-## Financial Performance Summary
-
-<p align="right">
-  <img src="assets/Summary.png" width="1000" />
-</p>
-
-### KPIs Overview
-- Total Customers: 10,000
-- Churn Rate: 20.37% (2,037 customers churned)
-- Average Retain Balance: $72,745
-- Average Churn Balance: $91,109
-- Total Balance: $765M
-- Geographies: France, Germany, Spain
-
-**Key Insights**
-**1. High Churn Rate**
-- A churn rate of 20.37% is relatively high, indicating a potential issue in customer retention.
-- The average balance of churned customers ($91,109) is higher than that of retained customers ($72,745), suggesting that higher-value customers are churning.
-
-**2. Geographical Distribution**
-- Majority of customers are from:
-  - France: 5,014 (50.1%)
-  - Germany: 2,509 (25.1%)
-  - Spain: 2,477 (24.8%)
-
-However, a filtered drill-down shows:
-- In Germany, customers under 25 years old, with medium churn risk, are notably present (96 customers).
-- Within this filtered segment, gender is almost equally split: 41 males, 36 females.
-
-**3. Age Group Analysis**
-- Most customers fall into 35-44 and 25-34 age groups:
-  - 35-44: 3,278 retained
-  - 25-34: 2,972 retained
-
-- However, <25 age group has the lowest retention (417) and churn (40) proportionally.
-- Suggests younger customers are more likely to churn.
-
-**4. Churn Risk Tiers**
-- Within the Germany/<25/Medium Risk segment:
-  - Most are in Medium Risk tier (77 out of 96).
-  - Low (14) and High (5) are negligible.
-
-
----
-
-
-## 🎯 Strategic Recommendations
-
-A. **Customer Retention Strategy**
-
-1. **Prioritize high-balance churners:**
-   - Since churned customers have higher average balances, create retention campaigns targeting high-value customers.
-   - Consider proactive outreach, loyalty rewards, or personalized financial advice.
-
-2. **Develop targeted interventions for medium-risk segments:**
-   - The largest risk category is medium. Launch "nudge" campaigns for this group to reduce the risk of escalation.
-   - Examples: financial planning tools, regular check-ins, or premium service trials.
-
-B. **Segment-Specific Strategies**
-
-1. **Adults (45-54 age group) and Seniors (55+ age group)**
-   - High churn and low retention indicate dissatisfaction or low engagement.
-   - Actions:
-     - Launch adults-focused products (e.g., retirement planning consultations, health savings-linked accounts, insurance bundles (health + life + critical illness)).
-     - Improve digital engagement (mobile banking, in-app "easy mode" interface).
-
-2. **Germany Segment**
-   - Customers <25 in Germany are showing churn behavior.
-   - Consider localized offers and customer engagement campaigns in Germany targeting this age group.
-
-C. **Geographic Focus**
-   - France has 50% of total customers – leverage this for upselling and cross-selling.
-   - Spain and Germany: Evaluate marketing ROI and retention performance to determine if higher engagement is needed.
-
-D. **Improve Churn Prediction & Early Warning**
-   - Use the existing churn risk tiers to build a predictive churn model based on:
-     - Age
-     - Geography
-     - Gender
-     - Credit Score
-     - Product usage
-     - Balance trends
-   - Focus on medium-risk segments and monitor any increase in early warning indicators.
-
-E. **Financial Impact Monitoring**
-   - Given that high churners have higher balances:
-     - Quantify potential revenue loss from churn and build a business case for investing in retention programs.
-     - Use dashboards to track CLV (Customer Lifetime Value) over time by segment.
-
-### Next Steps
-
-1. **Deep dive into churn drivers:** Survey churned customers, analyze product usage data.
-
-2. **Build retention models:** Use machine learning (e.g., logistic regression, random forest) to predict churn risk.
-
-3. **Refine segmentation:** Include behavioral data (transaction volume, complaints, digital activity).
-
-4. **Test retention offers:** A/B test targeted campaigns for high-value and medium-risk customers.
-
-5. **Monitor KPIs monthly:** Add trend charts for churn rate, NPS, and retention by geography and age.
-
-
----
-
-🔗 [View the Live Dashboard](https://bit.ly/UnityBank_Customer_Churn_Risk)
 
 
 ## Executive Summary
 
-This Power BI analytics solution provides Unity Bank with a comprehensive, data-driven view of its customer base, financial exposure, and churn risk. By leveraging the full capabilities of Power BI from data transformation to advanced DAX measures and interactive dashboards, the project delivers actionable insights that directly support customer retention, revenue protection, and risk mitigation efforts.
+Aurora Threads Boutique demonstrates solid commercial performance and clear market traction across its three store locations, each contributing distinct strategic value. 
+- **Store A** leads in high unit sales and digital maturity, positioning it as the benchmark for customer monetisation.
+- **Store B** maintains a well-balanced product assortment and the highest revenue,  showing the strongest upside for growth
+- while **Store C** benefits from high footfall and rapid inventory turnover, delivering consistent and reliable cash flow.
 
-This analysis reveals that Unity Bank is facing a critical customer churn challenge, with over 20% of customers exiting and a disproportionately high churn among medium-risk and high-balance clients. Inactivity, low product penetration, and regional concentration (notably in Germany) emerge as leading indicators of churn. Additionally, the bank’s current churn risk tiering underestimates the risk posed by medium-tier customers, who account for the largest share of churned balance value.
-
-The dashboards empower stakeholders to explore these dynamics through real-time, filterable views segmented by geography, age, credit score, product usage, and churn risk. This enables business leaders to move from reactive churn tracking to proactive customer engagement and risk prevention.
-
-## Executive Recommendation
-
-Unity Bank should implement a **targeted, data-driven customer retention strategy** focused on the following priorities:
-
-1. **Prioritize Medium-Risk and High-Balance Customers**  
-   - Proactively monitor and engage medium-risk customers, especially those with high balances, using early-warning signals from the dashboard.
-
-2. **Reactivate Inactive Customers**  
-   - Launch re-engagement campaigns and personalized offers for inactive users, who represent a large portion of churned customers.
-
-3. **Increase Product Penetration to Reduce Churn**  
-   - Design bundled product offerings and personalized cross-sell strategies to encourage customers with only one product to deepen their relationship with the bank.
-
-4. **Localize Retention Strategies by Region**  
-   - Tailor retention and service strategies for high-churn regions like Germany, where customer behavior significantly deviates from the rest of the portfolio.
-
-5. **Refine Risk Scoring Models**  
-   - Update churn risk models to reflect actual behavioral drivers found in the data, such as inactivity, single product ownership, and regional trends, to improve prediction accuracy.
-
-By implementing these actions, Unity Bank can significantly reduce churn, improve customer lifetime value, and drive sustainable revenue growth through smarter, insight-led decisions.
+Taken together, the portfolio reflects a stable and resilient business model with scalable customer demand. While each store presents targeted opportunities for optimisation, the combined performance indicates that Aurora Threads is well-positioned to accelerate growth through focused, data-driven investments rather than structural change.
 
 
----
+--- 
 
 
 ## Disclaimer
 This project is for portfolio and educational display only.
-
-No content may be reused without permission.
 
 
 ---
